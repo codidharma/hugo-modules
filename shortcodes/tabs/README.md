@@ -1,14 +1,14 @@
 # Tab Shortcode (DEPRECATED)
 
-use this new version instead <https://github.com/gethugothemes/hugo-modules/tree/master/tab>
+use this new version instead <https://github.com/codidharma/hugo-modules/tree/master/tab>
 
-## Installation for Gethugothemes themes
+## Installation for codidharma themes
 
 Add the following code to your module list in the `config/_default/module.toml` file.
 
 ```toml
 [[imports]]
-path = "github.com/gethugothemes/hugo-modules/shortcodes/tabs"
+path = "github.com/codidharma/hugo-modules/shortcodes/tabs"
 ```
 
 Add the following code to your `assets/scss/main.scss` or `assets/scss/style.scss` file.

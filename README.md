@@ -5,48 +5,48 @@
 
 Explore our 30+ Hugo modules and use them for your own projects for free. Check out each module page for instructions on how to use it.
 
-* [Images](https://github.com/gethugothemes/hugo-modules/tree/master/images)
-* [Gallery Slider](https://github.com/gethugothemes/hugo-modules/tree/master/gallery-slider)
-* [Search](https://github.com/gethugothemes/hugo-modules/tree/master/search)
-* [Videos](https://github.com/gethugothemes/hugo-modules/tree/master/videos)
-* [Accordion](https://github.com/gethugothemes/hugo-modules/tree/master/accordion)
-* [Adsense](https://github.com/gethugothemes/hugo-modules/tree/master/adsense)
-* [Gzip Caching](https://github.com/gethugothemes/hugo-modules/tree/master/gzip-caching)
-* [Tab](https://github.com/gethugothemes/hugo-modules/tree/master/tab)
-* [Modal](https://github.com/gethugothemes/hugo-modules/tree/master/modal)
-* [Table Of Contents](https://github.com/gethugothemes/hugo-modules/tree/master/table-of-contents)
-* [PWA - Progressive Web App](https://github.com/gethugothemes/hugo-modules/tree/master/pwa)
+* [Images](https://github.com/codidharma/hugo-modules/tree/master/images)
+* [Gallery Slider](https://github.com/codidharma/hugo-modules/tree/master/gallery-slider)
+* [Search](https://github.com/codidharma/hugo-modules/tree/master/search)
+* [Videos](https://github.com/codidharma/hugo-modules/tree/master/videos)
+* [Accordion](https://github.com/codidharma/hugo-modules/tree/master/accordion)
+* [Adsense](https://github.com/codidharma/hugo-modules/tree/master/adsense)
+* [Gzip Caching](https://github.com/codidharma/hugo-modules/tree/master/gzip-caching)
+* [Tab](https://github.com/codidharma/hugo-modules/tree/master/tab)
+* [Modal](https://github.com/codidharma/hugo-modules/tree/master/modal)
+* [Table Of Contents](https://github.com/codidharma/hugo-modules/tree/master/table-of-contents)
+* [PWA - Progressive Web App](https://github.com/codidharma/hugo-modules/tree/master/pwa)
 
-* [Components](https://github.com/gethugothemes/hugo-modules/tree/master/components)
+* [Components](https://github.com/codidharma/hugo-modules/tree/master/components)
 
-  * [Announcement](https://github.com/gethugothemes/hugo-modules/tree/master/components/announcement)
-  * [Cookie Consent](https://github.com/gethugothemes/hugo-modules/tree/master/components/cookie-consent)
-  * [Crips Chat](https://github.com/gethugothemes/hugo-modules/tree/master/components/crisp-chat)
-  * [Pre Loader](https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader)
-  * [Social Share](https://github.com/gethugothemes/hugo-modules/tree/master/components/social-share)
-  * [Valine Comment](https://github.com/gethugothemes/hugo-modules/tree/master/components/valine-comment)
-  * [Render Link](https://github.com/gethugothemes/hugo-modules/tree/master/components/render-link)
-  * [Custom Script](https://github.com/gethugothemes/hugo-modules/tree/master/components/custom-script)
+  * [Announcement](https://github.com/codidharma/hugo-modules/tree/master/components/announcement)
+  * [Cookie Consent](https://github.com/codidharma/hugo-modules/tree/master/components/cookie-consent)
+  * [Crips Chat](https://github.com/codidharma/hugo-modules/tree/master/components/crisp-chat)
+  * [Pre Loader](https://github.com/codidharma/hugo-modules/tree/master/components/preloader)
+  * [Social Share](https://github.com/codidharma/hugo-modules/tree/master/components/social-share)
+  * [Valine Comment](https://github.com/codidharma/hugo-modules/tree/master/components/valine-comment)
+  * [Render Link](https://github.com/codidharma/hugo-modules/tree/master/components/render-link)
+  * [Custom Script](https://github.com/codidharma/hugo-modules/tree/master/components/custom-script)
 
-* [SEO Tools](https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools)
+* [SEO Tools](https://github.com/codidharma/hugo-modules/tree/master/seo-tools)
 
-  * [Site Verifications](https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/site-verifications)
-  * [Matomo Analytics](https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/matomo-analytics)
-  * [Google Tag Manager](https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/google-tag-manager)
-  * [Basic SEO](https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo)
-  * [Plausible Analytics](https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/plausible-analytics)
-  * [Counter Analytics](https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/counter-analytics)
-  * [Baidu Analytics](https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/baidu-analytics)
+  * [Site Verifications](https://github.com/codidharma/hugo-modules/tree/master/seo-tools/site-verifications)
+  * [Matomo Analytics](https://github.com/codidharma/hugo-modules/tree/master/seo-tools/matomo-analytics)
+  * [Google Tag Manager](https://github.com/codidharma/hugo-modules/tree/master/seo-tools/google-tag-manager)
+  * [Basic SEO](https://github.com/codidharma/hugo-modules/tree/master/seo-tools/basic-seo)
+  * [Plausible Analytics](https://github.com/codidharma/hugo-modules/tree/master/seo-tools/plausible-analytics)
+  * [Counter Analytics](https://github.com/codidharma/hugo-modules/tree/master/seo-tools/counter-analytics)
+  * [Baidu Analytics](https://github.com/codidharma/hugo-modules/tree/master/seo-tools/baidu-analytics)
 
-* [Shortcodes](https://github.com/gethugothemes/hugo-modules/tree/master/shortcodes)
-  * [Button](https://github.com/gethugothemes/hugo-modules/tree/master/shortcodes/button)
-  * [Codepen](https://github.com/gethugothemes/hugo-modules/tree/master/shortcodes/codepen)
-  * [Notice](https://github.com/gethugothemes/hugo-modules/tree/master/shortcodes/notice)
-  * [Cloak Contact](https://github.com/gethugothemes/hugo-modules/tree/master/shortcodes/cloak-contact)
+* [Shortcodes](https://github.com/codidharma/hugo-modules/tree/master/shortcodes)
+  * [Button](https://github.com/codidharma/hugo-modules/tree/master/shortcodes/button)
+  * [Codepen](https://github.com/codidharma/hugo-modules/tree/master/shortcodes/codepen)
+  * [Notice](https://github.com/codidharma/hugo-modules/tree/master/shortcodes/notice)
+  * [Cloak Contact](https://github.com/codidharma/hugo-modules/tree/master/shortcodes/cloak-contact)
 
-* [Icons](https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools)
-  * [Font Awesome Icons](https://github.com/gethugothemes/hugo-modules/tree/master/icons/font-awesome)
-  * [Themify Icons](https://github.com/gethugothemes/hugo-modules/tree/master/icons/themify-icons)
+* [Icons](https://github.com/codidharma/hugo-modules/tree/master/seo-tools)
+  * [Font Awesome Icons](https://github.com/codidharma/hugo-modules/tree/master/icons/font-awesome)
+  * [Themify Icons](https://github.com/codidharma/hugo-modules/tree/master/icons/themify-icons)
   
 ## 📘 Benefits of Using Exclusive Hugo Modules
 
@@ -63,7 +63,7 @@ We believe in the power of open source software and in contributing back to the 
 
 ## 🐞 Reporting Issues
 
-We use GitHub Issues as the official bug tracker for our Hugo Modules. Before submitting a report, please search [existing issues](https://github.com/gethugothemes/hugo-modules/issues) to see if your problem or idea has already been addressed. If not, feel free to [open a new issue](https://github.com/gethugothemes/hugo-modules/issues).
+We use GitHub Issues as the official bug tracker for our Hugo Modules. Before submitting a report, please search [existing issues](https://github.com/codidharma/hugo-modules/issues) to see if your problem or idea has already been addressed. If not, feel free to [open a new issue](https://github.com/codidharma/hugo-modules/issues).
 
 ## 🪴 Contributing Code to Hugo Modules
 
@@ -75,14 +75,14 @@ We welcome contributions from the community to help us improve and expand this p
 
 ## 🚀 Our Hugo Modules Powered Themes
 
-| [![Bigspring](https://demo.gethugothemes.com/thumbnails/bigspring.png)](https://gethugothemes.com/products/bigspring/) | [![Reader](https://demo.gethugothemes.com/thumbnails/reader.png)](https://gethugothemes.com/products/reader/) | [![Agico](https://demo.gethugothemes.com/thumbnails/agico.png)](https://gethugothemes.com/products/agico/) |
+| [![Bigspring](https://demo.codidharma.com/thumbnails/bigspring.png)](https://codidharma.com/products/bigspring/) | [![Reader](https://demo.codidharma.com/thumbnails/reader.png)](https://codidharma.com/products/reader/) | [![Agico](https://demo.codidharma.com/thumbnails/agico.png)](https://codidharma.com/products/agico/) |
 |:---:|:---:|:---:|
 | **Bigspring** | **Reader** | **Agico** |
-| [![Logbook](https://demo.gethugothemes.com/thumbnails/logbook.png)](https://gethugothemes.com/products/logbook/) | [![Copper](https://demo.gethugothemes.com/thumbnails/copper.png)](https://gethugothemes.com/products/copper/) | [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.png?)](https://gethugothemes.com/bundle/?utm_source=hugo_modules_github&utm_medium=referral&utm_campaign=github_theme_readme) |
+| [![Logbook](https://demo.codidharma.com/thumbnails/logbook.png)](https://codidharma.com/products/logbook/) | [![Copper](https://demo.codidharma.com/thumbnails/copper.png)](https://codidharma.com/products/copper/) | [![Mega-Bundle-HUGO](https://demo.codidharma.com/thumbnails/bundle.png?)](https://codidharma.com/bundle/?utm_source=hugo_modules_github&utm_medium=referral&utm_campaign=github_theme_readme) |
 | **Logbook** |  **Copper** | **56+ Themes Bundle** |
 
 ## 📝 License
 
-This project is licensed under the [MIT License](https://github.com/gethugothemes/hugo-modules/blob/master/LICENSE).
+This project is licensed under the [MIT License](https://github.com/codidharma/hugo-modules/blob/master/LICENSE).
 
-Copyright &copy; Developed by [Gethugothemes](https://gethugothemes.com)
+Copyright &copy; Developed by [codidharma](https://codidharma.com)

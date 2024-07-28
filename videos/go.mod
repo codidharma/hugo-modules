@@ -1,3 +1,3 @@
-module github.com/gethugothemes/hugo-modules/videos
+module github.com/codidharma/hugo-modules/videos
 
 go 1.20

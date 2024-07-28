@@ -1,12 +1,12 @@
 # Notice Shortcode
 
-## Installation for Gethugothemes themes
+## Installation for codidharma themes
 
 Add the following code to your module list in the `config/_default/module.toml` file.
 
 ```toml
 [[imports]]
-path = "github.com/gethugothemes/hugo-modules/shortcodes/notice"
+path = "github.com/codidharma/hugo-modules/shortcodes/notice"
 ```
 
 Add the following code to your `assets/scss/main.scss` or `assets/scss/style.scss` file.

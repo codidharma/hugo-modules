@@ -1,3 +1,3 @@
-module github.com/gethugothemes/hugo-modules/shortcodes/vimeo-lite
+module github.com/codidharma/hugo-modules/shortcodes/vimeo-lite
 
 go 1.19

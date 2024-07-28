@@ -1,14 +1,14 @@
 {
-  "name": "@gethugothemes/hugo-modules",
-  "description": "Hugo Modules for gethugothemes.com themes",
-  "homepage": "https://github.com/gethugothemes/hugo-modules",
+  "name": "@codidharma/hugo-modules",
+  "description": "Hugo Modules for codidharma.com themes",
+  "homepage": "https://github.com/codidharma/hugo-modules",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gethugothemes/hugo-modules.git"
+    "url": "git+https://github.com/codidharma/hugo-modules.git"
   },
   "bugs": {
-    "url": "https://github.com/gethugothemes/hugo-modules/issues"
+    "url": "https://github.com/codidharma/hugo-modules/issues"
   },
   "keywords": [
     "hugo",
@@ -16,7 +16,7 @@
   ],
   "author": {
     "name": "Mehedi Sharif Titas",
-    "web": "https://gethugothemes.com"
+    "web": "https://codidharma.com"
   },
   "maintainers": [
     {
